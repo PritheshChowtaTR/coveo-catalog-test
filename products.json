@@ -21,8 +21,7 @@
     "tr_estore_imagealttag": "Annotated Divorce Act 2024 - New Edition",
     "tr_estore_recommendations": "30836141,30834700,30835452,30849602",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://43254925-ebook-onetime",
@@ -101,8 +100,7 @@
     "tr_estore_imagealttag": "The 2025 Annotated Divorce Act - New Edition",
     "tr_estore_recommendations": "42928342,42810831,42766416,30844925",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://43426715-ebook-onetime",
@@ -181,8 +179,7 @@
     "tr_estore_imagealttag": "Front cover image of The 2025 Annotated Ontario Labour Relations Act.",
     "tr_estore_recommendations": "30908446,43079766,43362181,30845051",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://43397166-ebook-onetime",
@@ -261,8 +258,7 @@
     "tr_estore_imagealttag": "Image of the front cover of The 2024 Annotated Ontario Labour Relations Act.",
     "tr_estore_recommendations": "30845051,30844971,43273610,30836518",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://42810805-ebook-onetime",
@@ -341,8 +337,7 @@
     "tr_estore_imagealttag": "image of The 2024 Annotated Copyright Act",
     "tr_estore_recommendations": "30910708,30852533,30843541,30912551",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://43252095-ebook-onetime",
@@ -421,8 +416,7 @@
     "tr_estore_imagealttag": "The 2024 Annotated Employment Insurance Act",
     "tr_estore_recommendations": "30845051,30835758,30844971,43233400",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://43006574-ebook-onetime",
@@ -500,8 +494,7 @@
     "tr_estore_imagealttag": "Cover of Alberta Weekly Law Digest",
     "tr_estore_recommendations": "43164267,42958753,30842201,30843605",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://30907354-binder-subscription",
@@ -536,8 +529,7 @@
     "tr_estore_imagealttag": "Cover of Ontario Regulations Service, R.R.O. 1990 Edition, 2005",
     "tr_estore_recommendations": "43164267,43173832,30835520,30907190",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://30908578-binder-onetime",
@@ -583,8 +575,7 @@
     "tr_estore_imagealttag": "Cover of Canada - U.S. Commercial Law Guide, Second Edition",
     "tr_estore_recommendations": "43340029,43032441,30845216,43340053",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://30843245-binder-onetime",
@@ -630,8 +621,7 @@
     "tr_estore_imagealttag": "Cover of Criminal Pleadings and Practice in Canada, 2023 Edition",
     "tr_estore_recommendations": "42783340,30836219,30911229,30843495",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://30851010-binder-onetime",
@@ -688,8 +678,7 @@
     "tr_estore_imagealttag": "Cover of Alberta Securities Act and Regulations 2024 + CD",
     "tr_estore_recommendations": "30843632,30834967,30912602,30908572",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://30845010-bookcdrom-onetime",
@@ -735,8 +724,7 @@
     "tr_estore_imagealttag": "GST Partner",
     "tr_estore_recommendations": "30845177,30844983,30845206,30843894",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://30837418-dvd-subscription",
@@ -771,8 +759,7 @@
     "tr_estore_imagealttag": "Front cover image of The 2025 Annotated Immigration and Refugee Protection Act of Canada (Hardbound).",
     "tr_estore_recommendations": "30842616,30835177,30842572,30835997",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://30836559-hardbound-onetime",
@@ -817,8 +804,7 @@
     "tr_estore_imagealttag": "Divorce Act Manual Base, Make to Demand",
     "tr_estore_recommendations": "30836141,30844940,30834700,30835452",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://30903799-looseleafcontents-onetime",
@@ -852,8 +838,7 @@
     "tr_estore_imagealttag": "Cover of Ontario Statute Citator Current Bills Service",
     "tr_estore_recommendations": "43164267,42958753,30842201,30843605",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://30907364-newsletter-subscription",
@@ -887,8 +872,7 @@
     "tr_estore_imagealttag": "A Practical Guide to Provincial Nominee Programs in Canadian Immigration Law",
     "tr_estore_recommendations": "42809842,30835518,30835323,30835161",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://30866533-other-onetime",
@@ -923,8 +907,7 @@
     "tr_estore_imagealttag": "Image of the Employment Standards Rapid Reference Chart.",
     "tr_estore_recommendations": "30845051,30835758,30844971,43273610",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://30912968-pamphlet-onetime",
@@ -969,8 +952,7 @@
     "tr_estore_imagealttag": "Study-Guide to British Columbia OHS Regulation, 2023 Edition",
     "tr_estore_recommendations": "30845051,43273610,30835861,30843966",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://43134175-spiralbound-onetime",
@@ -1005,8 +987,7 @@
     "tr_estore_imagealttag": "Image of Money & Family Law",
     "tr_estore_recommendations": "30836141,43030943,30844940,30852543",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://30833506-newsletterelectronic-subscription",
@@ -1040,8 +1021,7 @@
     "tr_estore_imagealttag": "Ontario Statute Citator, R.S.O. 1990 Edition",
     "tr_estore_recommendations": "43164267,42958753,30842201,30843605",
     "tr_estore_priceunit": "CAD",
-    "tr_estore_language": ["English"],
-    "tr_estore_site": "Canada_EN"
+    "language": "English"
   },
   {
     "documentId": "product://30843853-binder-subscription",
