@@ -1,7 +1,7 @@
 [
   {
     "documentId": "product://43254925-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-divorce-act",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-divorce-act",
     "objecttype": "Product",
     "ec_product_id": "43254925-parent",
     "ec_name": "The 2024 Annotated Divorce Act",
@@ -25,7 +25,7 @@
   },
   {
     "documentId": "product://43254925-ebook-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-divorce-act-ebook",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-divorce-act-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43254925-parent",
     "ec_variant_id": "43254925-ebook-onetime",
@@ -36,7 +36,7 @@
   },
   {
     "documentId": "product://43254925-softbound-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-divorce-act-softbound",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-divorce-act-softbound",
     "objecttype": "Variant",
     "ec_product_id": "43254925-parent",
     "ec_variant_id": "43254925-softbound-onetime",
@@ -47,7 +47,7 @@
   },
   {
     "documentId": "product://43254925-softbound-smartsaver",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-divorce-act-softbound",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-divorce-act-softbound",
     "objecttype": "Variant",
     "ec_product_id": "43254925-parent",
     "ec_variant_id": "43254925-softbound-smartsaver",
@@ -58,7 +58,7 @@
   },
   {
     "documentId": "product://43254925-bundle-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-divorce-act-book-ebook",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-divorce-act-book-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43254925-parent",
     "ec_variant_id": "43254925-bundle-onetime",
@@ -69,7 +69,7 @@
   },
   {
     "documentId": "product://43254925-bundle-smartsaver",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-divorce-act-book-ebook",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-divorce-act-book-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43254925-parent",
     "ec_variant_id": "43254925-bundle-smartsaver",
@@ -80,7 +80,7 @@
   },
   {
     "documentId": "product://43426715-parent",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-divorce-act",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-divorce-act",
     "objecttype": "Product",
     "ec_product_id": "43426715-parent",
     "ec_name": "The 2025 Annotated Divorce Act",
@@ -104,7 +104,7 @@
   },
   {
     "documentId": "product://43426715-ebook-onetime",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-divorce-act-ebook",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-divorce-act-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43426715-parent",
     "ec_variant_id": "43426715-ebook-onetime",
@@ -115,7 +115,7 @@
   },
   {
     "documentId": "product://43426715-softbound-onetime",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-divorce-act-softbound",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-divorce-act-softbound",
     "objecttype": "Variant",
     "ec_product_id": "43426715-parent",
     "ec_variant_id": "43426715-softbound-onetime",
@@ -126,7 +126,7 @@
   },
   {
     "documentId": "product://43426715-softbound-smartsaver",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-divorce-act-softbound",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-divorce-act-softbound",
     "objecttype": "Variant",
     "ec_product_id": "43426715-parent",
     "ec_variant_id": "43426715-softbound-smartsaver",
@@ -137,7 +137,7 @@
   },
   {
     "documentId": "product://43426715-bundle-onetime",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-divorce-act-book-ebook",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-divorce-act-book-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43426715-parent",
     "ec_variant_id": "43426715-bundle-onetime",
@@ -148,7 +148,7 @@
   },
   {
     "documentId": "product://43426715-bundle-smartsaver",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-divorce-act-book-ebook",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-divorce-act-book-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43426715-parent",
     "ec_variant_id": "43426715-bundle-smartsaver",
@@ -159,7 +159,7 @@
   },
   {
     "documentId": "product://43397166-parent",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-ontario-labour-relations-act",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-ontario-labour-relations-act",
     "objecttype": "Product",
     "ec_product_id": "43397166-parent",
     "ec_name": "The 2025 Annotated Ontario Labour Relations Act",
@@ -183,7 +183,7 @@
   },
   {
     "documentId": "product://43397166-ebook-onetime",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-ontario-labour-relations-act-ebook",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-ontario-labour-relations-act-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43397166-parent",
     "ec_variant_id": "43397166-ebook-onetime",
@@ -194,7 +194,7 @@
   },
   {
     "documentId": "product://43397166-softbound-onetime",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-ontario-labour-relations-act-softbound",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-ontario-labour-relations-act-softbound",
     "objecttype": "Variant",
     "ec_product_id": "43397166-parent",
     "ec_variant_id": "43397166-softbound-onetime",
@@ -205,7 +205,7 @@
   },
   {
     "documentId": "product://43397166-softbound-smartsaver",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-ontario-labour-relations-act-softbound",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-ontario-labour-relations-act-softbound",
     "objecttype": "Variant",
     "ec_product_id": "43397166-parent",
     "ec_variant_id": "43397166-softbound-smartsaver",
@@ -216,7 +216,7 @@
   },
   {
     "documentId": "product://43397166-bundle-onetime",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-ontario-labour-relations-act-book-ebook",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-ontario-labour-relations-act-book-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43397166-parent",
     "ec_variant_id": "43397166-bundle-onetime",
@@ -227,7 +227,7 @@
   },
   {
     "documentId": "product://43397166-bundle-smartsaver",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-ontario-labour-relations-act-book-ebook",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/the-2025-annotated-ontario-labour-relations-act-book-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43397166-parent",
     "ec_variant_id": "43397166-bundle-smartsaver",
@@ -238,7 +238,7 @@
   },
   {
     "documentId": "product://42810805-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-ontario-labour-relations-act",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-ontario-labour-relations-act",
     "objecttype": "Product",
     "ec_product_id": "42810805-parent",
     "ec_name": "The 2024 Annotated Ontario Labour Relations Act",
@@ -262,7 +262,7 @@
   },
   {
     "documentId": "product://42810805-ebook-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-ontario-labour-relations-act-ebook",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-ontario-labour-relations-act-ebook",
     "objecttype": "Variant",
     "ec_product_id": "42810805-parent",
     "ec_variant_id": "42810805-ebook-onetime",
@@ -273,7 +273,7 @@
   },
   {
     "documentId": "product://42810805-softbound-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-ontario-labour-relations-act-softbound",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-ontario-labour-relations-act-softbound",
     "objecttype": "Variant",
     "ec_product_id": "42810805-parent",
     "ec_variant_id": "42810805-softbound-onetime",
@@ -284,7 +284,7 @@
   },
   {
     "documentId": "product://42810805-softbound-smartsaver",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-ontario-labour-relations-act-softbound",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-ontario-labour-relations-act-softbound",
     "objecttype": "Variant",
     "ec_product_id": "42810805-parent",
     "ec_variant_id": "42810805-softbound-smartsaver",
@@ -295,7 +295,7 @@
   },
   {
     "documentId": "product://42810805-bundle-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-ontario-labour-relations-act-book-ebook",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-ontario-labour-relations-act-book-ebook",
     "objecttype": "Variant",
     "ec_product_id": "42810805-parent",
     "ec_variant_id": "42810805-bundle-onetime",
@@ -306,7 +306,7 @@
   },
   {
     "documentId": "product://42810805-bundle-smartsaver",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-ontario-labour-relations-act-book-ebook",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-ontario-labour-relations-act-book-ebook",
     "objecttype": "Variant",
     "ec_product_id": "42810805-parent",
     "ec_variant_id": "42810805-bundle-smartsaver",
@@ -317,7 +317,7 @@
   },
   {
     "documentId": "product://43252095-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-copyright-act",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-copyright-act",
     "objecttype": "Product",
     "ec_product_id": "43252095-parent",
     "ec_name": "The 2024 Annotated Copyright Act",
@@ -341,7 +341,7 @@
   },
   {
     "documentId": "product://43252095-ebook-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-copyright-act-ebook",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-copyright-act-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43252095-parent",
     "ec_variant_id": "43252095-ebook-onetime",
@@ -352,7 +352,7 @@
   },
   {
     "documentId": "product://43252095-softbound-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-copyright-act-softbound",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-copyright-act-softbound",
     "objecttype": "Variant",
     "ec_product_id": "43252095-parent",
     "ec_variant_id": "43252095-softbound-onetime",
@@ -363,7 +363,7 @@
   },
   {
     "documentId": "product://43252095-softbound-smartsaver",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-copyright-act-softbound",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-copyright-act-softbound",
     "objecttype": "Variant",
     "ec_product_id": "43252095-parent",
     "ec_variant_id": "43252095-softbound-smartsaver",
@@ -374,7 +374,7 @@
   },
   {
     "documentId": "product://43252095-bundle-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-copyright-act-book-ebook",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-copyright-act-book-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43252095-parent",
     "ec_variant_id": "43252095-bundle-onetime",
@@ -385,7 +385,7 @@
   },
   {
     "documentId": "product://43252095-bundle-smartsaver",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-copyright-act-book-ebook",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-copyright-act-book-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43252095-parent",
     "ec_variant_id": "43252095-bundle-smartsaver",
@@ -396,7 +396,7 @@
   },
   {
     "documentId": "product://43006574-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-employment-insurance-act",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-employment-insurance-act",
     "objecttype": "Product",
     "ec_product_id": "43006574-parent",
     "ec_name": "The 2024 Annotated Employment Insurance Act",
@@ -420,7 +420,7 @@
   },
   {
     "documentId": "product://43006574-ebook-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-employment-insurance-act-ebook",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-employment-insurance-act-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43006574-parent",
     "ec_variant_id": "43006574-ebook-onetime",
@@ -431,7 +431,7 @@
   },
   {
     "documentId": "product://43006574-softbound-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-employment-insurance-act-softbound",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-employment-insurance-act-softbound",
     "objecttype": "Variant",
     "ec_product_id": "43006574-parent",
     "ec_variant_id": "43006574-softbound-onetime",
@@ -442,7 +442,7 @@
   },
   {
     "documentId": "product://43006574-softbound-smartsaver",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-employment-insurance-act-softbound",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-employment-insurance-act-softbound",
     "objecttype": "Variant",
     "ec_product_id": "43006574-parent",
     "ec_variant_id": "43006574-softbound-smartsaver",
@@ -453,7 +453,7 @@
   },
   {
     "documentId": "product://43006574-bundle-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-employment-insurance-act-book-ebook",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-employment-insurance-act-book-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43006574-parent",
     "ec_variant_id": "43006574-bundle-onetime",
@@ -464,7 +464,7 @@
   },
   {
     "documentId": "product://43006574-bundle-smartsaver",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-employment-insurance-act-book-ebook",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-employment-insurance-act-book-ebook",
     "objecttype": "Variant",
     "ec_product_id": "43006574-parent",
     "ec_variant_id": "43006574-bundle-smartsaver",
@@ -475,7 +475,7 @@
   },
   {
     "documentId": "product://30907354-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/alberta-weekly-law-digest",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/alberta-weekly-law-digest",
     "objecttype": "Product",
     "ec_product_id": "30907354-parent",
     "ec_name": "Alberta Weekly Law Digest",
@@ -498,7 +498,7 @@
   },
   {
     "documentId": "product://30907354-binder-subscription",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/alberta-weekly-law-digest-binder-looseleaf",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/alberta-weekly-law-digest-binder-looseleaf",
     "objecttype": "Variant",
     "ec_product_id": "30907354-parent",
     "ec_variant_id": "30907354-binder-subscription",
@@ -509,7 +509,7 @@
   },
   {
     "documentId": "product://30908578-parent",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/ontario-regulations-service-rro-1990-edition-2005",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/ontario-regulations-service-rro-1990-edition-2005",
     "objecttype": "Product",
     "ec_product_id": "30908578-parent",
     "ec_name": "Ontario Regulations Service, R.R.O. 1990 Edition, 2005",
@@ -533,7 +533,7 @@
   },
   {
     "documentId": "product://30908578-binder-onetime",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/ontario-regulations-service-rro-1990-edition-binder-looseleaf",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/ontario-regulations-service-rro-1990-edition-binder-looseleaf",
     "objecttype": "Variant",
     "ec_product_id": "30908578-parent",
     "ec_variant_id": "30908578-binder-onetime",
@@ -544,7 +544,7 @@
   },
   {
     "documentId": "product://30908578-binder-smartsaver",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/ontario-regulations-service-rro-1990-edition-binder-looseleaf",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/ontario-regulations-service-rro-1990-edition-binder-looseleaf",
     "objecttype": "Variant",
     "ec_product_id": "30908578-parent",
     "ec_variant_id": "30908578-binder-smartsaver",
@@ -555,7 +555,7 @@
   },
   {
     "documentId": "product://30843245-parent",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/canada---us-commercial-law-guide-second-edition",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/canada---us-commercial-law-guide-second-edition",
     "objecttype": "Product",
     "ec_product_id": "30843245-parent",
     "ec_name": "Canada - U.S. Commercial Law Guide, Second Edition",
@@ -579,7 +579,7 @@
   },
   {
     "documentId": "product://30843245-binder-onetime",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/canada-us-commercial-law-gde-second-edition-binder-looseleaf",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/canada-us-commercial-law-gde-second-edition-binder-looseleaf",
     "objecttype": "Variant",
     "ec_product_id": "30843245-parent",
     "ec_variant_id": "30843245-binder-onetime",
@@ -590,7 +590,7 @@
   },
   {
     "documentId": "product://30843245-binder-smartsaver",
-    "uri": "https://store.thomsonreuters.ca/en-ca/products/canada-us-commercial-law-gde-second-edition-binder-looseleaf",
+    "tr_estore_link": "https://store.thomsonreuters.ca/en-ca/products/canada-us-commercial-law-gde-second-edition-binder-looseleaf",
     "objecttype": "Variant",
     "ec_product_id": "30843245-parent",
     "ec_variant_id": "30843245-binder-smartsaver",
@@ -601,7 +601,7 @@
   },
   {
     "documentId": "product://30851010-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/criminal-pleadings--practice-in-canada-third-edition",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/criminal-pleadings--practice-in-canada-third-edition",
     "objecttype": "Product",
     "ec_product_id": "30851010-parent",
     "ec_name": "Criminal Pleadings & Practice in Canada, Third Edition",
@@ -625,7 +625,7 @@
   },
   {
     "documentId": "product://30851010-binder-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/criminal-pleadings-practice-in-canada-third-edition-binder-looseleaf",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/criminal-pleadings-practice-in-canada-third-edition-binder-looseleaf",
     "objecttype": "Variant",
     "ec_product_id": "30851010-parent",
     "ec_variant_id": "30851010-binder-onetime",
@@ -636,7 +636,7 @@
   },
   {
     "documentId": "product://30851010-binder-smartsaver",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/criminal-pleadings-practice-in-canada-third-edition-binder-looseleaf",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/criminal-pleadings-practice-in-canada-third-edition-binder-looseleaf",
     "objecttype": "Variant",
     "ec_product_id": "30851010-parent",
     "ec_variant_id": "30851010-binder-smartsaver",
@@ -647,7 +647,7 @@
   },
   {
     "documentId": "product://30851010-elooseleaf-smartsaver",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/criminal-pleadings-and-practice-in-canada-elooseleaf",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/criminal-pleadings-and-practice-in-canada-elooseleaf",
     "objecttype": "Variant",
     "ec_product_id": "30851010-parent",
     "ec_variant_id": "30851010-elooseleaf-smartsaver",
@@ -658,7 +658,7 @@
   },
   {
     "documentId": "product://30845010-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/alberta-securities-act-and-regulations-2023-2024-30845010",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/alberta-securities-act-and-regulations-2023-2024-30845010",
     "objecttype": "Product",
     "ec_product_id": "30845010-parent",
     "ec_name": "Alberta Securities Act and Regulations 2023-2024",
@@ -682,7 +682,7 @@
   },
   {
     "documentId": "product://30845010-bookcdrom-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/alberta-securities-act-regulations-2024-print-proview-ebook-cd-rom-30845010",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/alberta-securities-act-regulations-2024-print-proview-ebook-cd-rom-30845010",
     "objecttype": "Variant",
     "ec_product_id": "30845010-parent",
     "ec_variant_id": "30845010-bookcdrom-onetime",
@@ -693,7 +693,7 @@
   },
   {
     "documentId": "product://30845010-bookcdrom-smartsaver",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/alberta-securities-act-regulations-2024-print-proview-ebook-cd-rom-30845010",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/alberta-securities-act-regulations-2024-print-proview-ebook-cd-rom-30845010",
     "objecttype": "Variant",
     "ec_product_id": "30845010-parent",
     "ec_variant_id": "30845010-bookcdrom-smartsaver",
@@ -704,7 +704,7 @@
   },
   {
     "documentId": "product://30837418-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/gst-partner-30837418",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/gst-partner-30837418",
     "objecttype": "Product",
     "ec_product_id": "30837418-parent",
     "ec_name": "GST Partner",
@@ -728,7 +728,7 @@
   },
   {
     "documentId": "product://30837418-dvd-subscription",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/gst-partner-dvd-30837418",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/gst-partner-dvd-30837418",
     "objecttype": "Variant",
     "ec_product_id": "30837418-parent",
     "ec_variant_id": "30837418-dvd-subscription",
@@ -739,7 +739,7 @@
   },
   {
     "documentId": "product://30836559-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-immigration-and-refugee-protection-act-of-canada-hardbound-book-30836559",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-immigration-and-refugee-protection-act-of-canada-hardbound-book-30836559",
     "objecttype": "Product",
     "ec_product_id": "30836559-parent",
     "ec_name": "The 2024 Annotated Immigration and Refugee Protection Act of Canada",
@@ -763,7 +763,7 @@
   },
   {
     "documentId": "product://30836559-hardbound-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-immigration-and refugee-protection-act-of-canada-hardbound-book-30836559",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-immigration-and refugee-protection-act-of-canada-hardbound-book-30836559",
     "objecttype": "Variant",
     "ec_product_id": "30836559-parent",
     "ec_variant_id": "30836559-hardbound-onetime",
@@ -774,7 +774,7 @@
   },
   {
     "documentId": "product://30836559-hardbound-smartsaver",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-immigration-and refugee-protection-act-of-canada-hardbound-book-30836559",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/the-2024-annotated-immigration-and refugee-protection-act-of-canada-hardbound-book-30836559",
     "objecttype": "Variant",
     "ec_product_id": "30836559-parent",
     "ec_variant_id": "30836559-hardbound-smartsaver",
@@ -785,7 +785,7 @@
   },
   {
     "documentId": "product://30903799-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/divorce-act-manual-base-make-to-demand-30903799",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/divorce-act-manual-base-make-to-demand-30903799",
     "objecttype": "Product",
     "ec_product_id": "30903799-parent",
     "ec_name": "Divorce Act Manual Base, Make to Demand",
@@ -808,7 +808,7 @@
   },
   {
     "documentId": "product://30903799-looseleafcontents-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/divorce-act-manual-base-make-to-demand-looseleaf-contents-30903799",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/divorce-act-manual-base-make-to-demand-looseleaf-contents-30903799",
     "objecttype": "Variant",
     "ec_product_id": "30903799-parent",
     "ec_variant_id": "30903799-looseleafcontents-onetime",
@@ -819,7 +819,7 @@
   },
   {
     "documentId": "product://30907364-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/ontario-statute-citator-current-bills-service-30907364",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/ontario-statute-citator-current-bills-service-30907364",
     "objecttype": "Product",
     "ec_product_id": "30907364-parent",
     "ec_name": "Ontario Statute Citator Current Bills Service",
@@ -842,7 +842,7 @@
   },
   {
     "documentId": "product://30907364-newsletter-subscription",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/ontario-statute-citator-current-bills-service-newsletter-30907364",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/ontario-statute-citator-current-bills-service-newsletter-30907364",
     "objecttype": "Variant",
     "ec_product_id": "30907364-parent",
     "ec_variant_id": "30907364-newsletter-subscription",
@@ -853,7 +853,7 @@
   },
   {
     "documentId": "product://30866533-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/a-practical-guide-to-provincial-nominee-programs-in-canadian-immigration-law-30866533",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/a-practical-guide-to-provincial-nominee-programs-in-canadian-immigration-law-30866533",
     "objecttype": "Product",
     "ec_product_id": "30866533-parent",
     "ec_name": "A Practical Guide to Provincial Nominee Programs in Canadian Immigration Law",
@@ -876,7 +876,7 @@
   },
   {
     "documentId": "product://30866533-other-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/practical-guide-to-provincial-nominee-programs-in-canadian-immigration-law-30866533",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/practical-guide-to-provincial-nominee-programs-in-canadian-immigration-law-30866533",
     "objecttype": "Variant",
     "ec_product_id": "30866533-parent",
     "ec_variant_id": "30866533-other-onetime",
@@ -887,7 +887,7 @@
   },
   {
     "documentId": "product://30912968-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/human-resources-management-in-canada-employment-standards-rapid-reference-chart-30912968",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/human-resources-management-in-canada-employment-standards-rapid-reference-chart-30912968",
     "objecttype": "Product",
     "ec_product_id": "30912968-parent",
     "ec_name": "Human Resources Management in Canada, Employment Standards Rapid Reference Chart",
@@ -911,7 +911,7 @@
   },
   {
     "documentId": "product://30912968-pamphlet-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/hrmc-employment-standards-rapid-reference-chart-so-svc-hardbound-book-30912968",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/hrmc-employment-standards-rapid-reference-chart-so-svc-hardbound-book-30912968",
     "objecttype": "Variant",
     "ec_product_id": "30912968-parent",
     "ec_variant_id": "30912968-pamphlet-onetime",
@@ -922,7 +922,7 @@
   },
   {
     "documentId": "product://30912968-pamphlet-smartsaver",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/hrmc-employment-standards-rapid-reference-chart-so-svc-hardbound-book-30912968",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/hrmc-employment-standards-rapid-reference-chart-so-svc-hardbound-book-30912968",
     "objecttype": "Variant",
     "ec_product_id": "30912968-parent",
     "ec_variant_id": "30912968-pamphlet-smartsaver",
@@ -933,7 +933,7 @@
   },
   {
     "documentId": "product://43134175-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/study-guide-to-british-columbia-ohs-regulation-2023-edition-43134175",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/study-guide-to-british-columbia-ohs-regulation-2023-edition-43134175",
     "objecttype": "Product",
     "ec_product_id": "43134175-parent",
     "ec_name": "Study-Guide to British Columbia OHS Regulation, 2023 Edition",
@@ -956,7 +956,7 @@
   },
   {
     "documentId": "product://43134175-spiralbound-onetime",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/study-guide-to-british-columbia-ohs-regulation-2023-edition-spiralbound-book-43134175",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/study-guide-to-british-columbia-ohs-regulation-2023-edition-spiralbound-book-43134175",
     "objecttype": "Variant",
     "ec_product_id": "43134175-parent",
     "ec_variant_id": "43134175-spiralbound-onetime",
@@ -967,7 +967,7 @@
   },
   {
     "documentId": "product://30833506-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/money-and-family-law-planning---valuation---division---succession-30833506",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/money-and-family-law-planning---valuation---division---succession-30833506",
     "objecttype": "Product",
     "ec_product_id": "30833506-parent",
     "ec_name": "Money and Family Law: Planning - Valuation - Division - Succession",
@@ -991,7 +991,7 @@
   },
   {
     "documentId": "product://30833506-newsletterelectronic-subscription",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/money-family-law-planning-valuation-division-succession-electronic-newsletter-30833506",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/money-family-law-planning-valuation-division-succession-electronic-newsletter-30833506",
     "objecttype": "Variant",
     "ec_product_id": "30833506-parent",
     "ec_variant_id": "30833506-newsletterelectronic-subscription",
@@ -1002,7 +1002,7 @@
   },
   {
     "documentId": "product://30843853-parent",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/ontario-statute-citator-rso-1990-edition-30843853",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/ontario-statute-citator-rso-1990-edition-30843853",
     "objecttype": "Product",
     "ec_product_id": "30843853-parent",
     "ec_name": "Ontario Statute Citator, R.S.O. 1990 Edition",
@@ -1025,7 +1025,7 @@
   },
   {
     "documentId": "product://30843853-binder-subscription",
-    "uri": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/ontario-statute-citator-rso-1990-edition-binder-looseleaf-30843853",
+    "tr_estore_link": "https://store-tr-ca-qa-ams.ewp.thomsonreuters.com/en-ca/products/ontario-statute-citator-rso-1990-edition-binder-looseleaf-30843853",
     "objecttype": "Variant",
     "ec_product_id": "30843853-parent",
     "ec_variant_id": "30843853-binder-subscription",
