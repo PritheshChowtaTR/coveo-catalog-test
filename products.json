@@ -21,7 +21,8 @@
         "tr_estore_imagealttag":  "Annotated Divorce Act 2024 - New Edition",
         "tr_estore_recommendations":  "30836141,30834700,30835452,30849602",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  242.00
     },
     {
         "documentId":  "product://43254925-ebook-onetime",
@@ -100,7 +101,8 @@
         "tr_estore_imagealttag":  "The 2025 Annotated Divorce Act - New Edition",
         "tr_estore_recommendations":  "42928342,42810831,42766416,30844925",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  267.00
     },
     {
         "documentId":  "product://43426715-ebook-onetime",
@@ -110,7 +112,7 @@
         "ec_variant_id":  "43426715-ebook-onetime",
         "ec_name":  "The 2025 Annotated Divorce Act - eBook (Smart Saver)",
         "ec_productformat":  "eBook",
-        "ec_price":  267.00,
+        "ec_price":  315.00,
         "tr_estore_purchaseoption":  "Smart Saver - Automatic Print Updates"
     },
     {
@@ -121,7 +123,7 @@
         "ec_variant_id":  "43426715-softbound-onetime",
         "ec_name":  "The 2025 Annotated Divorce Act - Softbound Book (One-time)",
         "ec_productformat":  "Softbound book",
-        "ec_price":  267.00,
+        "ec_price":  289.00,
         "tr_estore_purchaseoption":  "One-time purchase with no updates"
     },
     {
@@ -132,7 +134,7 @@
         "ec_variant_id":  "43426715-softbound-smartsaver",
         "ec_name":  "The 2025 Annotated Divorce Act - Softbound Book (Smart Saver)",
         "ec_productformat":  "Softbound book",
-        "ec_price":  267.00,
+        "ec_price":  335.00,
         "tr_estore_purchaseoption":  "Smart Saver - Automatic Print Updates"
     },
     {
@@ -143,7 +145,7 @@
         "ec_variant_id":  "43426715-bundle-onetime",
         "ec_name":  "The 2025 Annotated Divorce Act - Book & eBook (One-time)",
         "ec_productformat":  "Book & eBook",
-        "ec_price":  347.00,
+        "ec_price":  365.00,
         "tr_estore_purchaseoption":  "One-time purchase with no updates"
     },
     {
@@ -154,7 +156,7 @@
         "ec_variant_id":  "43426715-bundle-smartsaver",
         "ec_name":  "The 2025 Annotated Divorce Act - Book & eBook (Smart Saver)",
         "ec_productformat":  "Book & eBook",
-        "ec_price":  347.00,
+        "ec_price":  425.00,
         "tr_estore_purchaseoption":  "Smart Saver - Automatic Print Updates"
     },
     {
@@ -164,7 +166,7 @@
         "ec_product_id":  "43397166-parent",
         "ec_name":  "The 2025 Annotated Ontario Labour Relations Act",
         "ec_shortdesc":  "A fully annotated portable reference to the Ontario Labour Relations Act, as well as up-to-date consolidations of Regulations under the Act. The Annotated Ontario Labour Relations Act is your key to understanding the ever-changing labour relations regime in Ontario.",
-        "ec_description":  "<p>This work is designed to be a guide for lawyers practicing in the area of labour law, lay persons such as field representatives or business agents employed by trade unions, labour relations consultants working for employers, and anyone else who has a special interest in the dynamic field of labour relations in Ontario. Intended as a quick and portable reference tool, this publication reproduces a fully annotated version of the <em>Labour Relations Act</em>, 1995, S.O. 1995 c. 1, Sched. A.</p>\n<p><br /><strong>New in This Edition: </strong></p>\n<p><br />The 2025 edition incorporates case digests from the latest key OLRB and court decision and is current to May 2024 and includes many of the cases that address the impact of the COVID-19 pandemic on the Board's administration and procedure, including cases dealing with adjournments, production and the scheduling of video conference hearings, and COVID-19 vaccination policies as they relate to a union's duty of fair representation.</p>\n<p><br />The legislation is current to Ontario Gazette Vol. 157:42 (October 19, 2024).</p>",
+        "ec_description":  "<p>This work is designed to be a guide for lawyers practicing in the area of labour law, lay persons such as field representatives or business agents employed by trade unions, labour relations consultants working for employers, and anyone else who has a special interest in the dynamic field of labour relations in Ontario. Intended as a quick and portable reference tool, this publication reproduces a fully annotated version of the <em>Labour Relations Act</em>, 1995, S.O. 1995 c. 1, Sched. A.</p>\n<p><br /><strong>New in This Edition: </strong></p>\n<p><br />The 2025 edition incorporates case digests from the latest key OLRB and court decision and is current to May 2024 and includes many of the cases that address the impact of the COVID-19 pandemic on the Board\u0027s administration and procedure, including cases dealing with adjournments, production and the scheduling of video conference hearings, and COVID-19 vaccination policies as they relate to a union\u0027s duty of fair representation.</p>\n<p><br />The legislation is current to Ontario Gazette Vol. 157:42 (October 19, 2024).</p>",
         "ec_category":  "Labor & employment law",
         "ec_item_group_id":  "annotated-ontario-labour-relations-act",
         "ec_images":  "https://thomsonreuters.scene7.com/is/image/thomsonreutersPROD/148910-6",
@@ -179,7 +181,8 @@
         "tr_estore_imagealttag":  "Front cover image of The 2025 Annotated Ontario Labour Relations Act.",
         "tr_estore_recommendations":  "30908446,43079766,43362181,30845051",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  263.00
     },
     {
         "documentId":  "product://43397166-ebook-onetime",
@@ -243,7 +246,7 @@
         "ec_product_id":  "42810805-parent",
         "ec_name":  "The 2024 Annotated Ontario Labour Relations Act",
         "ec_shortdesc":  "A fully annotated portable reference to the Ontario Labour Relations Act, as well as up-to-date consolidations of Regulations under the Act. The Annotated Ontario Labour Relations Act is your key to understanding the ever-changing labour relations regime in Ontario.",
-        "ec_description":  "<p>A fully annotated portable reference to the Ontario Labour Relations Act, as well as up-to-date consolidations of Regulations under the Act. The Annotated Ontario Labour Relations Act is your key to understanding the ever-changing labour relations regime in Ontario. A comprehensive, yet accessible, and portable reference tool, this publication reproduces a fully annotated version of the Labour Relations Act, as well as up-to-date consolidations of Regulations under the Act, and the Ontario Labour Relations Board's current Rules of Procedure, and Information Bulletins.</p>\n<p><br /><strong>Highlights for the 2024 edition:</strong></p>\n<p><br />The 2024 edition incorporates case digests from the latest key OLRB and court decision and is current to May 2023 and includes many of the cases that address the impact of the COVID-19 pandemic on the Board's administration and procedure, including cases dealing with adjournments, production, and the scheduling of video conference hearings, and COVID-19 vaccination policies as they relate to a union's duty of fair representation.</p>\n<p><br />The legislation is current to Ontario Gazette Vol. 156:36 (September 9, 2023).</p>",
+        "ec_description":  "<p>A fully annotated portable reference to the Ontario Labour Relations Act, as well as up-to-date consolidations of Regulations under the Act. The Annotated Ontario Labour Relations Act is your key to understanding the ever-changing labour relations regime in Ontario. A comprehensive, yet accessible, and portable reference tool, this publication reproduces a fully annotated version of the Labour Relations Act, as well as up-to-date consolidations of Regulations under the Act, and the Ontario Labour Relations Board\u0027s current Rules of Procedure, and Information Bulletins.</p>\n<p><br /><strong>Highlights for the 2024 edition:</strong></p>\n<p><br />The 2024 edition incorporates case digests from the latest key OLRB and court decision and is current to May 2023 and includes many of the cases that address the impact of the COVID-19 pandemic on the Board\u0027s administration and procedure, including cases dealing with adjournments, production, and the scheduling of video conference hearings, and COVID-19 vaccination policies as they relate to a union\u0027s duty of fair representation.</p>\n<p><br />The legislation is current to Ontario Gazette Vol. 156:36 (September 9, 2023).</p>",
         "ec_category":  "Labor & employment law",
         "ec_item_group_id":  "annotated-ontario-labour-relations-act",
         "ec_images":  "https://thomsonreuters.scene7.com/is/image/thomsonreutersPROD/148910-4",
@@ -258,7 +261,8 @@
         "tr_estore_imagealttag":  "Image of the front cover of The 2024 Annotated Ontario Labour Relations Act.",
         "tr_estore_recommendations":  "30845051,30844971,43273610,30836518",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  240.00
     },
     {
         "documentId":  "product://42810805-ebook-onetime",
@@ -279,7 +283,7 @@
         "ec_variant_id":  "42810805-softbound-onetime",
         "ec_name":  "The 2024 Annotated Ontario Labour Relations Act - Softbound Book (One-time)",
         "ec_productformat":  "Softbound book",
-        "ec_price":  240.00,
+        "ec_price":  265.00,
         "tr_estore_purchaseoption":  "One-time purchase with no updates"
     },
     {
@@ -290,7 +294,7 @@
         "ec_variant_id":  "42810805-softbound-smartsaver",
         "ec_name":  "The 2024 Annotated Ontario Labour Relations Act - Softbound Book (Smart Saver)",
         "ec_productformat":  "Softbound book",
-        "ec_price":  240.00,
+        "ec_price":  298.00,
         "tr_estore_purchaseoption":  "Smart Saver - Automatic Print Updates"
     },
     {
@@ -301,7 +305,7 @@
         "ec_variant_id":  "42810805-bundle-onetime",
         "ec_name":  "The 2024 Annotated Ontario Labour Relations Act - Book & eBook (One-time)",
         "ec_productformat":  "Book & eBook",
-        "ec_price":  240.00,
+        "ec_price":  295.00,
         "tr_estore_purchaseoption":  "One-time purchase with no updates"
     },
     {
@@ -312,7 +316,7 @@
         "ec_variant_id":  "42810805-bundle-smartsaver",
         "ec_name":  "The 2024 Annotated Ontario Labour Relations Act - Book & eBook (Smart Saver)",
         "ec_productformat":  "Book & eBook",
-        "ec_price":  240.00,
+        "ec_price":  342.00,
         "tr_estore_purchaseoption":  "Smart Saver - Automatic Print Updates"
     },
     {
@@ -337,7 +341,8 @@
         "tr_estore_imagealttag":  "image of The 2024 Annotated Copyright Act",
         "tr_estore_recommendations":  "30910708,30852533,30843541,30912551",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  374.00
     },
     {
         "documentId":  "product://43252095-ebook-onetime",
@@ -401,7 +406,7 @@
         "ec_product_id":  "43006574-parent",
         "ec_name":  "The 2024 Annotated Employment Insurance Act",
         "ec_shortdesc":  "A quick reference tool, which includes fully annotated consolidations of the updated Employment Insurance Act, Employment Insurance Regulations, the Social Security Tribunal Regulations, and relevant sections of the Department of Employment and Social Development Act.",
-        "ec_description":  "<p>This quick reference tool includes fully annotated consolidations of the updated Employment Insurance Act, the Employment Insurance Regulations, the Social Security Tribunal Regulations, and relevant sections of the Department of Employment and Social Development Act.</p>\n<p><br />The text includes an annotation of the Employment Insurance Act and its corresponding Regulations. Each provision is followed, where possible, by a discussion of its legislative history, a brief explanation and an analysis based on relevant jurisprudence. Case law from all the courts of Canada (federal and provincial) which has come to the author's attention has been included in the text. </p>\n<p><br />Key Features</p>\n<ul>\n<li>Full text of the Employment Insurance Act, as amended.</li>\n<li>Section-by-section annotations, including updated case-law, commentary, and related provisions.</li>\n<li>All relevant legislation and regulations enacted to establish new benefits in response to COVID-19, as amended as the COVID-19 pandemic has evolved.</li>\n<li>Legislation related to the Social Security Tribunal with annotations.</li>\n<li>The Tax Court of Canada's Rules of Procedure Respecting the Employment Insurance Act.</li>\n</ul>\n<p><br />Currency of Information</p>\n<p><br />Legislation:</p>\n<ul>\n<li>Canada Gazette Vol. 157:23, dated November 8, 2023.</li>\n</ul>\n<p><br />Federal Court of Appeal:</p>\n<ul>\n<li>All relevant Federal Court of Appeal decisions updated to September 2023.</li>\n<li>Social Security Tribunal decisions current to September 2023.</li>\n</ul>",
+        "ec_description":  "<p>This quick reference tool includes fully annotated consolidations of the updated Employment Insurance Act, the Employment Insurance Regulations, the Social Security Tribunal Regulations, and relevant sections of the Department of Employment and Social Development Act.</p>\n<p><br />The text includes an annotation of the Employment Insurance Act and its corresponding Regulations. Each provision is followed, where possible, by a discussion of its legislative history, a brief explanation and an analysis based on relevant jurisprudence. Case law from all the courts of Canada (federal and provincial) which has come to the author\u0027s attention has been included in the text. </p>\n<p><br />Key Features</p>\n<ul>\n<li>Full text of the Employment Insurance Act, as amended.</li>\n<li>Section-by-section annotations, including updated case-law, commentary, and related provisions.</li>\n<li>All relevant legislation and regulations enacted to establish new benefits in response to COVID-19, as amended as the COVID-19 pandemic has evolved.</li>\n<li>Legislation related to the Social Security Tribunal with annotations.</li>\n<li>The Tax Court of Canada\u0027s Rules of Procedure Respecting the Employment Insurance Act.</li>\n</ul>\n<p><br />Currency of Information</p>\n<p><br />Legislation:</p>\n<ul>\n<li>Canada Gazette Vol. 157:23, dated November 8, 2023.</li>\n</ul>\n<p><br />Federal Court of Appeal:</p>\n<ul>\n<li>All relevant Federal Court of Appeal decisions updated to September 2023.</li>\n<li>Social Security Tribunal decisions current to September 2023.</li>\n</ul>",
         "ec_category":  "Labor & employment law",
         "ec_item_group_id":  "annotated-employment-insurance-act",
         "ec_images":  "https://thomsonreuters.scene7.com/is/image/thomsonreutersPROD/tr-horizontal-logo-canada",
@@ -416,7 +421,8 @@
         "tr_estore_imagealttag":  "The 2024 Annotated Employment Insurance Act",
         "tr_estore_recommendations":  "30845051,30835758,30844971,43233400",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  243.00
     },
     {
         "documentId":  "product://43006574-ebook-onetime",
@@ -437,7 +443,7 @@
         "ec_variant_id":  "43006574-softbound-onetime",
         "ec_name":  "The 2024 Annotated Employment Insurance Act - Softbound Book (One-time)",
         "ec_productformat":  "Softbound book",
-        "ec_price":  243.00,
+        "ec_price":  248.00,
         "tr_estore_purchaseoption":  "One-time purchase with no updates"
     },
     {
@@ -448,7 +454,7 @@
         "ec_variant_id":  "43006574-softbound-smartsaver",
         "ec_name":  "The 2024 Annotated Employment Insurance Act - Softbound Book (Smart Saver)",
         "ec_productformat":  "Softbound book",
-        "ec_price":  243.00,
+        "ec_price":  289.00,
         "tr_estore_purchaseoption":  "Smart Saver - Automatic Print Updates"
     },
     {
@@ -459,7 +465,7 @@
         "ec_variant_id":  "43006574-bundle-onetime",
         "ec_name":  "The 2024 Annotated Employment Insurance Act - Book & eBook (One-time)",
         "ec_productformat":  "Book & eBook",
-        "ec_price":  243.00,
+        "ec_price":  299.00,
         "tr_estore_purchaseoption":  "One-time purchase with no updates"
     },
     {
@@ -470,7 +476,7 @@
         "ec_variant_id":  "43006574-bundle-smartsaver",
         "ec_name":  "The 2024 Annotated Employment Insurance Act - Book & eBook (Smart Saver)",
         "ec_productformat":  "Book & eBook",
-        "ec_price":  243.00,
+        "ec_price":  355.00,
         "tr_estore_purchaseoption":  "Smart Saver - Automatic Print Updates"
     },
     {
@@ -494,7 +500,8 @@
         "tr_estore_imagealttag":  "Cover of Alberta Weekly Law Digest",
         "tr_estore_recommendations":  "43164267,42958753,30842201,30843605",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  1992.00
     },
     {
         "documentId":  "product://30907354-binder-subscription",
@@ -529,7 +536,8 @@
         "tr_estore_imagealttag":  "Cover of Ontario Regulations Service, R.R.O. 1990 Edition, 2005",
         "tr_estore_recommendations":  "43164267,43173832,30835520,30907190",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  2009.00
     },
     {
         "documentId":  "product://30908578-binder-onetime",
@@ -550,7 +558,7 @@
         "ec_variant_id":  "30908578-binder-smartsaver",
         "ec_name":  "Ontario Regulations Service, R.R.O. 1990 Edition, 2005 - Binder/Looseleaf (Smart Saver)",
         "ec_productformat":  "Binder/looseleaf",
-        "ec_price":  2009.00,
+        "ec_price":  2399.00,
         "tr_estore_purchaseoption":  "Smart Saver - Automatic Print Updates"
     },
     {
@@ -560,7 +568,7 @@
         "ec_product_id":  "30843245-parent",
         "ec_name":  "Canada - U.S. Commercial Law Guide, Second Edition",
         "ec_shortdesc":  "Canada - U.S. Commercial Law Guide, Second Edition is a guide written for businesses operating in both Canada and the U.S. that highlights areas in commercial law where similarities or differences in the legal systems can affect legal decisions and documentation, practices, and processes.",
-        "ec_description":  "<p>This is a practical guide to commercial business and legal issues that can arise for businesses operating in both Canada and the United States. For 20 years, the <em>Canada-U.S. Commercial Law Guide</em> has been a resource outlining the legal issues of concern to businesses both in Canada and the United States. Areas of similarity in the law in both countries are identified as well as the differences. The most common commercial transactions, including secured lending, equipment leasing and the leasing of real property, are considered. As well, the regulatory impact on the undertaking of business and the commercial law, which applies to business, including intellectual property, consumer protection, and privacy concerns, are examined.</p>\n<p><br />The Second Edition has been fully reviewed and updated chapters included addressing securitizations and income trusts for securitization and partnerships in commercial practice. The materials have also been significantly supplemented with references to U.S. and related materials. New chapters on the following topics have been included:</p>\n<ul>\n<li>ULC's and LLC's – The Cross Border Hybrids</li>\n<li>Joint Venture, Co-Tenancy, and Co-Ownership</li>\n<li>Trusts as a Business Entity</li>\n<li>Taxation and Structures – Flow Through Entities Partnerships and LLC's</li>\n<li>Offering of Investment Interests in Limited Partnership, LLC and Trusts - Private Issues and Securities Law</li>\n</ul>",
+        "ec_description":  "<p>This is a practical guide to commercial business and legal issues that can arise for businesses operating in both Canada and the United States. For 20 years, the <em>Canada-U.S. Commercial Law Guide</em> has been a resource outlining the legal issues of concern to businesses both in Canada and the United States. Areas of similarity in the law in both countries are identified as well as the differences. The most common commercial transactions, including secured lending, equipment leasing and the leasing of real property, are considered. As well, the regulatory impact on the undertaking of business and the commercial law, which applies to business, including intellectual property, consumer protection, and privacy concerns, are examined.</p>\n<p><br />The Second Edition has been fully reviewed and updated chapters included addressing securitizations and income trusts for securitization and partnerships in commercial practice. The materials have also been significantly supplemented with references to U.S. and related materials. New chapters on the following topics have been included:</p>\n<ul>\n<li>ULC\u0027s and LLC\u0027s – The Cross Border Hybrids</li>\n<li>Joint Venture, Co-Tenancy, and Co-Ownership</li>\n<li>Trusts as a Business Entity</li>\n<li>Taxation and Structures – Flow Through Entities Partnerships and LLC\u0027s</li>\n<li>Offering of Investment Interests in Limited Partnership, LLC and Trusts - Private Issues and Securities Law</li>\n</ul>",
         "ec_category":  "Commercial law & contract",
         "ec_item_group_id":  "canada-us-commercial-law-guide",
         "ec_images":  "https://thomsonreuters.scene7.com/is/image/thomsonreutersPROD/150510-1",
@@ -575,7 +583,8 @@
         "tr_estore_imagealttag":  "Cover of Canada - U.S. Commercial Law Guide, Second Edition",
         "tr_estore_recommendations":  "43340029,43032441,30845216,43340053",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  939.00
     },
     {
         "documentId":  "product://30843245-binder-onetime",
@@ -596,7 +605,7 @@
         "ec_variant_id":  "30843245-binder-smartsaver",
         "ec_name":  "Canada - U.S. Commercial Law Guide, Second Edition - Binder/Looseleaf (Smart Saver)",
         "ec_productformat":  "Binder/looseleaf",
-        "ec_price":  939.00,
+        "ec_price":  1099.00,
         "tr_estore_purchaseoption":  "Smart Saver - Automatic Print Updates"
     },
     {
@@ -621,7 +630,8 @@
         "tr_estore_imagealttag":  "Cover of Criminal Pleadings and Practice in Canada, 2023 Edition",
         "tr_estore_recommendations":  "42783340,30836219,30911229,30843495",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  1531.00
     },
     {
         "documentId":  "product://30851010-binder-onetime",
@@ -642,7 +652,7 @@
         "ec_variant_id":  "30851010-binder-smartsaver",
         "ec_name":  "Criminal Pleadings & Practice in Canada, Third Edition - Binder/Looseleaf (Smart Saver)",
         "ec_productformat":  "Binder/looseleaf",
-        "ec_price":  1531.00,
+        "ec_price":  1795.00,
         "tr_estore_purchaseoption":  "Smart Saver - Automatic Print Updates"
     },
     {
@@ -678,7 +688,8 @@
         "tr_estore_imagealttag":  "Cover of Alberta Securities Act and Regulations 2024 + CD",
         "tr_estore_recommendations":  "30843632,30834967,30912602,30908572",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  378.00
     },
     {
         "documentId":  "product://30845010-bookcdrom-onetime",
@@ -699,7 +710,7 @@
         "ec_variant_id":  "30845010-bookcdrom-smartsaver",
         "ec_name":  "Alberta Securities Act and Regulations 2023-2024 - Book & CD-ROM (Smart Saver)",
         "ec_productformat":  "Book & CD-ROM",
-        "ec_price":  378.00,
+        "ec_price":  435.00,
         "tr_estore_purchaseoption":  "Smart Saver - Automatic Print Updates"
     },
     {
@@ -708,8 +719,8 @@
         "objecttype":  "Product",
         "ec_product_id":  "30837418-parent",
         "ec_name":  "GST Partner",
-        "ec_shortdesc":  "An exclusive source for section-by-section annotations of the legislation and regulations of the GST, this work includes Sherman's analysis of the intended meaning of each provision and how it operates in conjunction with other sections.",
-        "ec_description":  "<p>Includes expert and authoritative commentary by David Sherman through his <em>GST & HST Times</em> and <em>GST & HST Case Notes</em> newsletters.</p><p><em>GST Partner</em> is your exclusive source for section-by-section annotations of the legislation and regulations, including well-known tax authority David Sherman's analysis of each provision. This highly regarded feature provides insight into the intended meaning of the provision, explains how the provision operates in conjunction with other sections, discusses the relevant case law in detail, suggests creative interpretations and planning tips, highlights pending amendments, and more.</p><p><strong><em>GST Partner</em> contains:</strong></p><ul><li>Full text of the legislation and regulations </li><li>Section-by-section annotations including detailed commentary </li><li>Full text of Department of Finance news releases and Canada Revenue Agency </li> <li>GST Memoranda, technical information bulletins, and policy statements </li><li>All GST forms (in PDF and MS Word formats) </li><li>Full text of pending amendments, including proposed or draft legislation </li><li>Full and complete history of past amendments to the <em>Excise Tax Act </em></li><li>Full text of related legislation, including the non-GST portions of the <em>Excise Tax Act </em></li><li>Canada GST Cases, including the full text of all court and tribunal cases, decided under or relating to the GST, with David Sherman's detailed editorial comment on each case </li><li>Contents of Carswell & complete Canada GST Service Expert and authoritative commentary by David Sherman through his <em>GST & HST Times</em> and <em>GST & HST Case Notes</em> newsletters </li><li>Expert commentary and opinion from the Tax Executives Institute, the C.D. Howe Institute, and the tax professionals we collectively call The Tax Practitioner's Forum (1 knowledge worker) </li><li>Detailed licensing information and multiple-site pricing is made available by calling Customer Relations at 1-800-387-5164 or 416-609-3800</li></ul> <p><strong>About Taxnet Pro</strong></p><p>Taxnet Pro subscriptions offer the most current tax information and analysis in the areas of federal income tax, provincial taxes, and GST/HST. Home to Canada's finest tax library, Taxnet Pro helps tax practitioners stay informed through up-to-the-minute tax news, with breaking tax developments delivered through special alerts.</p>",
+        "ec_shortdesc":  "An exclusive source for section-by-section annotations of the legislation and regulations of the GST, this work includes Sherman\u0027s analysis of the intended meaning of each provision and how it operates in conjunction with other sections.",
+        "ec_description":  "<p>Includes expert and authoritative commentary by David Sherman through his <em>GST & HST Times</em> and <em>GST & HST Case Notes</em> newsletters.</p><p><em>GST Partner</em> is your exclusive source for section-by-section annotations of the legislation and regulations, including well-known tax authority David Sherman\u0027s analysis of each provision. This highly regarded feature provides insight into the intended meaning of the provision, explains how the provision operates in conjunction with other sections, discusses the relevant case law in detail, suggests creative interpretations and planning tips, highlights pending amendments, and more.</p><p><strong><em>GST Partner</em> contains:</strong></p><ul><li>Full text of the legislation and regulations </li><li>Section-by-section annotations including detailed commentary </li><li>Full text of Department of Finance news releases and Canada Revenue Agency </li> <li>GST Memoranda, technical information bulletins, and policy statements </li><li>All GST forms (in PDF and MS Word formats) </li><li>Full text of pending amendments, including proposed or draft legislation </li><li>Full and complete history of past amendments to the <em>Excise Tax Act </em></li><li>Full text of related legislation, including the non-GST portions of the <em>Excise Tax Act </em></li><li>Canada GST Cases, including the full text of all court and tribunal cases, decided under or relating to the GST, with David Sherman\u0027s detailed editorial comment on each case </li><li>Contents of Carswell & complete Canada GST Service Expert and authoritative commentary by David Sherman through his <em>GST & HST Times</em> and <em>GST & HST Case Notes</em> newsletters </li><li>Expert commentary and opinion from the Tax Executives Institute, the C.D. Howe Institute, and the tax professionals we collectively call The Tax Practitioner\u0027s Forum (1 knowledge worker) </li><li>Detailed licensing information and multiple-site pricing is made available by calling Customer Relations at 1-800-387-5164 or 416-609-3800</li></ul> <p><strong>About Taxnet Pro</strong></p><p>Taxnet Pro subscriptions offer the most current tax information and analysis in the areas of federal income tax, provincial taxes, and GST/HST. Home to Canada\u0027s finest tax library, Taxnet Pro helps tax practitioners stay informed through up-to-the-minute tax news, with breaking tax developments delivered through special alerts.</p>",
         "ec_category":  "Tax & accounting",
         "ec_item_group_id":  "gst-partner",
         "ec_images":  "https://thomsonreuters.scene7.com/is/image/thomsonreutersPROD/tr-horizontal-logo-canada",
@@ -724,7 +735,8 @@
         "tr_estore_imagealttag":  "GST Partner",
         "tr_estore_recommendations":  "30845177,30844983,30845206,30843894",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  12.00
     },
     {
         "documentId":  "product://30837418-dvd-subscription",
@@ -734,7 +746,7 @@
         "ec_variant_id":  "30837418-dvd-subscription",
         "ec_name":  "GST Partner - DVD (Annual Subscription)",
         "ec_productformat":  "DVD",
-        "ec_price":  0.00,
+        "ec_price":  12.00,
         "tr_estore_purchaseoption":  "Annual Subscription"
     },
     {
@@ -744,7 +756,7 @@
         "ec_product_id":  "30836559-parent",
         "ec_name":  "The 2024 Annotated Immigration and Refugee Protection Act of Canada",
         "ec_shortdesc":  "The definitive resource on the Federal Immigration and Refugee Protection Act for immigration lawyers and consultants.",
-        "ec_description":  "<p>The definitive resource on the Federal <em>Immigration and Refugee Protection Act</em> and associated legislation for immigration lawyers and consultants.</p>\n<p><br />This concise and comprehensive guide contains all the latest legislative developments, as well as useful commentary on decisions that interpret the law. It is supplemented with numerous Editor's Notes and case annotations, including new annotations.</p>\n<p><br /><strong>New in This Edition</strong></p>\n<ul>\n<li>Updates to the <em>Immigration and Refugee Protection Act</em> (IRPA) and associated statutes, regulations, and other regulatory information.</li>\n<li>The Supreme Court of Canada decision in <em>Canadian Council for Refugees v. Canada (Citizenship and Immigration)</em>, concluding that the designation of the United States for purposes of the <em>Safe Third Country Agreement</em> (STCA) breaching section 7 of the <em>Canadian Charter of Rights and Freedoms</em> could not stand.</li>\n<li>The Supreme Court of Canada decision in <em>Mason v. Canada</em>, in which it was ruled in relation to inadmissibility that the Immigration Appeal Division's interpretation of s.34(1)(e) of IRPA was unreasonable, and inadmissibility under s.34(1)(e) requires a nexus between an act of violence and with national security or the security of Canada.</li>\n<li>New Consolidated Practice Guidelines for Citizenship, Immigration and Refugee Protection Proceedings (Federal Court).</li>\n<li>Updated Guidelines Issued by the Chairperson of the Immigration and Refugee Board of Canada (IRB).</li>\n<li>New case law summaries regarding the courts' interpretation of immigration legislation and regulations in numerous areas including, but not limited to, humanitarian and compassionate consideration; international agreements; work and study permits; conditions imposed on employers, criminality, refugees, removal orders and more.</li>\n</ul>",
+        "ec_description":  "<p>The definitive resource on the Federal <em>Immigration and Refugee Protection Act</em> and associated legislation for immigration lawyers and consultants.</p>\n<p><br />This concise and comprehensive guide contains all the latest legislative developments, as well as useful commentary on decisions that interpret the law. It is supplemented with numerous Editor\u0027s Notes and case annotations, including new annotations.</p>\n<p><br /><strong>New in This Edition</strong></p>\n<ul>\n<li>Updates to the <em>Immigration and Refugee Protection Act</em> (IRPA) and associated statutes, regulations, and other regulatory information.</li>\n<li>The Supreme Court of Canada decision in <em>Canadian Council for Refugees v. Canada (Citizenship and Immigration)</em>, concluding that the designation of the United States for purposes of the <em>Safe Third Country Agreement</em> (STCA) breaching section 7 of the <em>Canadian Charter of Rights and Freedoms</em> could not stand.</li>\n<li>The Supreme Court of Canada decision in <em>Mason v. Canada</em>, in which it was ruled in relation to inadmissibility that the Immigration Appeal Division\u0027s interpretation of s.34(1)(e) of IRPA was unreasonable, and inadmissibility under s.34(1)(e) requires a nexus between an act of violence and with national security or the security of Canada.</li>\n<li>New Consolidated Practice Guidelines for Citizenship, Immigration and Refugee Protection Proceedings (Federal Court).</li>\n<li>Updated Guidelines Issued by the Chairperson of the Immigration and Refugee Board of Canada (IRB).</li>\n<li>New case law summaries regarding the courts\u0027 interpretation of immigration legislation and regulations in numerous areas including, but not limited to, humanitarian and compassionate consideration; international agreements; work and study permits; conditions imposed on employers, criminality, refugees, removal orders and more.</li>\n</ul>",
         "ec_category":  "Immigration",
         "ec_item_group_id":  "annotated-immigration-refugee-protection-act",
         "ec_images":  "https://thomsonreuters.scene7.com/is/image/thomsonreutersPROD/148557-6",
@@ -759,7 +771,8 @@
         "tr_estore_imagealttag":  "Front cover image of The 2025 Annotated Immigration and Refugee Protection Act of Canada (Hardbound).",
         "tr_estore_recommendations":  "30842616,30835177,30842572,30835997",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  364.00
     },
     {
         "documentId":  "product://30836559-hardbound-onetime",
@@ -780,7 +793,7 @@
         "ec_variant_id":  "30836559-hardbound-smartsaver",
         "ec_name":  "The 2024 Annotated Immigration and Refugee Protection Act of Canada - Hardbound Book (Smart Saver)",
         "ec_productformat":  "Hardbound book",
-        "ec_price":  364.00,
+        "ec_price":  425.00,
         "tr_estore_purchaseoption":  "Smart Saver - Automatic Print Updates"
     },
     {
@@ -790,7 +803,7 @@
         "ec_product_id":  "30903799-parent",
         "ec_name":  "Divorce Act Manual Base, Make to Demand",
         "ec_shortdesc":  "This nationally relevant work focuses on how trial courts and provincial Courts of Appeal apply the laws in the cases that come before them. Family law practitioners can benefit from the insight offered through this authoritative service.",
-        "ec_description":  "<p><em>Divorce Act Manual</em> is for anyone with a specific interest in family law, in particular, the areas of spousal and child support. This practical reference tool is designed and organized to enable the busy lawyers to achieve the desired result with a reduced hassle. This nationally relevant work focuses on how the trial courts and provincial Courts of Appeal apply the laws in the cases that come before them.</p>\n<p><strong>Areas covered include</strong></p>\n<ul>\n<li>Jurisdiction in corollary relief proceedings</li>\n<li>Duty of the legal advisor</li>\n<li>Child and spousal support orders</li>\n<li>Income information</li>\n<li>Order for custody</li>\n<li>Recognition of foreign divorce</li>\n</ul>\n<p>One can benefit from the insight offered through this authoritative service that includes complete commentary and extensive case discussions.</p>\n<p><strong>New in this edition</strong></p>\n<ul>\n<li><strong><em>Fournier v. Fournier</em>, 2019 CarswellAlta 244 (Alta. Q.B.):</strong> Parties entered into homemade agreement after short-term marriage and wife applied for spousal support in the face of an agreement that provided for time limited spousal support. The court held that the agreement was given little weight in determining the issue given that it was only partly determinative of the issues, there was a lack of negotiation, there was no independent legal advice and the parties could not agree on what the agreement meant.</li>\n<li><strong><em>Nogueira v. Kuczynski</em>, 2019 CarswellOnt 1877 (Ont. S.C.J.):</strong> Motion brought challenging the jurisdiction of the court to hear a divorce where neither party resident in Ontario although had been during the marriage and at the time the application was issued. Proceedings also commenced in another jurisdiction for corollary issues and court held that there was no need to multiple proceedings even though the technical elements had been met.</li>\n<li><strong><em>Young v. Hanson</em>, 2019 CarswellOnt 2649 (Ont. S.C.J.):</strong> The court declined to make any decision with respect to custody of youngest child on an interim basis despite mother facing criminal charges in the death of the party's eldest child. Mother agreed to supervised access to youngest child and court indicated that despite criminal charges, child had a right to a relationship with mom and dad was required to provide meaningful, regular and frequent access.</li>\n<li><strong><em>Zacher v. Zacher</em>, 2019 CarswellOnt 3080, 303 A.C.W.S. (3d) 100, 2019 ONSC 1450 (Ont. S.C.J.):</strong> The court awarded short-term (less than one year) spousal support for a wife when both parties were 82 years of age and despite the fact that the court determined that the wife fell woefully short of establishing need due to her considerable financial resources. The court determined that she had an obligation to encroach on her capital if need be to support herself.</li>\n</ul>",
+        "ec_description":  "<p><em>Divorce Act Manual</em> is for anyone with a specific interest in family law, in particular, the areas of spousal and child support. This practical reference tool is designed and organized to enable the busy lawyers to achieve the desired result with a reduced hassle. This nationally relevant work focuses on how the trial courts and provincial Courts of Appeal apply the laws in the cases that come before them.</p>\n<p><strong>Areas covered include</strong></p>\n<ul>\n<li>Jurisdiction in corollary relief proceedings</li>\n<li>Duty of the legal advisor</li>\n<li>Child and spousal support orders</li>\n<li>Income information</li>\n<li>Order for custody</li>\n<li>Recognition of foreign divorce</li>\n</ul>\n<p>One can benefit from the insight offered through this authoritative service that includes complete commentary and extensive case discussions.</p>\n<p><strong>New in this edition</strong></p>\n<ul>\n<li><strong><em>Fournier v. Fournier</em>, 2019 CarswellAlta 244 (Alta. Q.B.):</strong> Parties entered into homemade agreement after short-term marriage and wife applied for spousal support in the face of an agreement that provided for time limited spousal support. The court held that the agreement was given little weight in determining the issue given that it was only partly determinative of the issues, there was a lack of negotiation, there was no independent legal advice and the parties could not agree on what the agreement meant.</li>\n<li><strong><em>Nogueira v. Kuczynski</em>, 2019 CarswellOnt 1877 (Ont. S.C.J.):</strong> Motion brought challenging the jurisdiction of the court to hear a divorce where neither party resident in Ontario although had been during the marriage and at the time the application was issued. Proceedings also commenced in another jurisdiction for corollary issues and court held that there was no need to multiple proceedings even though the technical elements had been met.</li>\n<li><strong><em>Young v. Hanson</em>, 2019 CarswellOnt 2649 (Ont. S.C.J.):</strong> The court declined to make any decision with respect to custody of youngest child on an interim basis despite mother facing criminal charges in the death of the party\u0027s eldest child. Mother agreed to supervised access to youngest child and court indicated that despite criminal charges, child had a right to a relationship with mom and dad was required to provide meaningful, regular and frequent access.</li>\n<li><strong><em>Zacher v. Zacher</em>, 2019 CarswellOnt 3080, 303 A.C.W.S. (3d) 100, 2019 ONSC 1450 (Ont. S.C.J.):</strong> The court awarded short-term (less than one year) spousal support for a wife when both parties were 82 years of age and despite the fact that the court determined that the wife fell woefully short of establishing need due to her considerable financial resources. The court determined that she had an obligation to encroach on her capital if need be to support herself.</li>\n</ul>",
         "ec_category":  "Family law",
         "ec_item_group_id":  "divorce-act-manual",
         "ec_images":  "https://thomsonreuters.scene7.com/is/image/thomsonreutersPROD/tr-horizontal-logo-canada",
@@ -804,7 +817,8 @@
         "tr_estore_imagealttag":  "Divorce Act Manual Base, Make to Demand",
         "tr_estore_recommendations":  "30836141,30844940,30834700,30835452",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  315.00
     },
     {
         "documentId":  "product://30903799-looseleafcontents-onetime",
@@ -838,7 +852,8 @@
         "tr_estore_imagealttag":  "Cover of Ontario Statute Citator Current Bills Service",
         "tr_estore_recommendations":  "43164267,42958753,30842201,30843605",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  720.00
     },
     {
         "documentId":  "product://30907364-newsletter-subscription",
@@ -872,7 +887,8 @@
         "tr_estore_imagealttag":  "A Practical Guide to Provincial Nominee Programs in Canadian Immigration Law",
         "tr_estore_recommendations":  "42809842,30835518,30835323,30835161",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  16.00
     },
     {
         "documentId":  "product://30866533-other-onetime",
@@ -907,7 +923,8 @@
         "tr_estore_imagealttag":  "Image of the Employment Standards Rapid Reference Chart.",
         "tr_estore_recommendations":  "30845051,30835758,30844971,43273610",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  10.00
     },
     {
         "documentId":  "product://30912968-pamphlet-onetime",
@@ -928,7 +945,7 @@
         "ec_variant_id":  "30912968-pamphlet-smartsaver",
         "ec_name":  "Human Resources Management in Canada, Employment Standards Rapid Reference Chart - Pamphlet (Smart Saver)",
         "ec_productformat":  "Pamphlet",
-        "ec_price":  10.00,
+        "ec_price":  12.00,
         "tr_estore_purchaseoption":  "Smart Saver - Automatic Print Updates"
     },
     {
@@ -938,7 +955,7 @@
         "ec_product_id":  "43134175-parent",
         "ec_name":  "Study-Guide to British Columbia OHS Regulation, 2023 Edition",
         "ec_shortdesc":  "The Study-Guide to British Columbia OHS Regulation helps learners to familiarize themselves with the primary rights and obligations under B.C. occupational health and safety legislation.",
-        "ec_description":  "<p>This Study-Guide was developed to accompany the 2023 Edition of the HANDI-GUIDE to British Columbia's OHS Regulation. It is designed to be used in self-study, academic, and corporate training settings. It can help learners familiarize themselves with the primary rights and obligations under B.C. occupational health and safety legislation. Also available is an Answer Key for this publication.</p>\n<p>Upon completion of this program, learners will:</p>\n<ul>\n<li>Understand the scope and structure of British Columbia's OHS legislation.</li>\n<li>Be aware of compliance requirements under Part 2 (Occupational Health and Safety) of the <em>Workers Compensation Act</em> and the OHS Regulation.</li>\n<li>Be able to find the answer to any question about the OHS legislation in your copy of the HANDI-GUIDE.</li>\n</ul>\n<p><strong><br />New in This Edition:</strong></p>\n<p>This Study-Guide has been updated to reflect the following updates which were made to the 2023 Edition of the B.C. HANDI-GUIDE:</p>\n<ul>\n<li>Current version of the OHS Regulation and Part 2 (OHS) of the <em>Workers Compensation Act</em>.</li>\n<li>Review of the latest changes to the Act and proposed changes.</li>\n<li>Review of the most recent changes to the OHS Regulation in 2022 (in force August 22, 2022).</li>\n<li>Review of expected changes to other Parts of the OHS Regulation late in 2022.</li>\n<li>Review of regulatory changes from 2020, 2021 and 2022, including a listing that tracks amendment history for the Act and OHS Regulation.</li>\n</ul>",
+        "ec_description":  "<p>This Study-Guide was developed to accompany the 2023 Edition of the HANDI-GUIDE to British Columbia\u0027s OHS Regulation. It is designed to be used in self-study, academic, and corporate training settings. It can help learners familiarize themselves with the primary rights and obligations under B.C. occupational health and safety legislation. Also available is an Answer Key for this publication.</p>\n<p>Upon completion of this program, learners will:</p>\n<ul>\n<li>Understand the scope and structure of British Columbia\u0027s OHS legislation.</li>\n<li>Be aware of compliance requirements under Part 2 (Occupational Health and Safety) of the <em>Workers Compensation Act</em> and the OHS Regulation.</li>\n<li>Be able to find the answer to any question about the OHS legislation in your copy of the HANDI-GUIDE.</li>\n</ul>\n<p><strong><br />New in This Edition:</strong></p>\n<p>This Study-Guide has been updated to reflect the following updates which were made to the 2023 Edition of the B.C. HANDI-GUIDE:</p>\n<ul>\n<li>Current version of the OHS Regulation and Part 2 (OHS) of the <em>Workers Compensation Act</em>.</li>\n<li>Review of the latest changes to the Act and proposed changes.</li>\n<li>Review of the most recent changes to the OHS Regulation in 2022 (in force August 22, 2022).</li>\n<li>Review of expected changes to other Parts of the OHS Regulation late in 2022.</li>\n<li>Review of regulatory changes from 2020, 2021 and 2022, including a listing that tracks amendment history for the Act and OHS Regulation.</li>\n</ul>",
         "ec_category":  "Health & environmental law",
         "ec_item_group_id":  "study-guide-bc-ohs-regulation",
         "ec_images":  "https://thomsonreuters.scene7.com/is/image/thomsonreutersPROD/tr-horizontal-logo-canada",
@@ -952,7 +969,8 @@
         "tr_estore_imagealttag":  "Study-Guide to British Columbia OHS Regulation, 2023 Edition",
         "tr_estore_recommendations":  "30845051,43273610,30835861,30843966",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  32.00
     },
     {
         "documentId":  "product://43134175-spiralbound-onetime",
@@ -972,7 +990,7 @@
         "ec_product_id":  "30833506-parent",
         "ec_name":  "Money and Family Law: Planning - Valuation - Division - Succession",
         "ec_shortdesc":  "Written for family and estates law practitioners and financial professionals, this work addresses the perplexing issues that beset professionals practising in these fields.",
-        "ec_description":  "<p><strong>Editorial Board</strong>: Lorne H. Wolfson and Barry S. Corbin</p>\n<p><strong>Editors-in-Chief</strong>: Victoria N. Ourumis, Christine I. Ashbourne</p>\n<br />\n<p>Written for family and estates law practitioners and financial professionals, this work addresses the perplexing issues that beset professionals practising in these fields.</p>\n<p>Since 1986, the various contributors to this publication have continuously offered high-level analysis and creative problem-solving techniques in the following areas:</p>\n<ul>\n<li>Property division</li>\n<li>Support Wills and trusts</li>\n<li>Estate administration</li>\n<li>Domestic contracts</li>\n<li>Settlement negotiations</li>\n<li>Pensions and life insurance</li>\n<li>Valuation, and more</li>\n</ul>\n<p><br />Summaries of relevant recent cases are included in a special \\\"What's New?\\\" section. Annual index is provided. In the Judgment Photocopy Service, customers can also order the full text of judgments reported in Money & Family Law in digest form. In addition, Best of Money & Family Law is made available.</p>\n<br />\n<p>Having been practicing family law for almost 35 years, Money & Family Law is an invaluable and indispensable part of my family law practice. It is my go-to source for topical and thoughtful discussions of matters related to family law and estates. Money & Family Law has proved its utility countless times in both settlement negotiations as well as contentious matters before the Courts. Indeed, I have had several Family Law Judges opine about how useful and cogent is the information provided in Messrs. Wolfson and Corbin's excellent newsletter. - Cecil J. Lyon, Lawyer, Mediator and Arbitrator, Kanata, Ontario</p>",
+        "ec_description":  "<p><strong>Editorial Board</strong>: Lorne H. Wolfson and Barry S. Corbin</p>\n<p><strong>Editors-in-Chief</strong>: Victoria N. Ourumis, Christine I. Ashbourne</p>\n<br />\n<p>Written for family and estates law practitioners and financial professionals, this work addresses the perplexing issues that beset professionals practising in these fields.</p>\n<p>Since 1986, the various contributors to this publication have continuously offered high-level analysis and creative problem-solving techniques in the following areas:</p>\n<ul>\n<li>Property division</li>\n<li>Support Wills and trusts</li>\n<li>Estate administration</li>\n<li>Domestic contracts</li>\n<li>Settlement negotiations</li>\n<li>Pensions and life insurance</li>\n<li>Valuation, and more</li>\n</ul>\n<p><br />Summaries of relevant recent cases are included in a special \\\"What\u0027s New?\\\" section. Annual index is provided. In the Judgment Photocopy Service, customers can also order the full text of judgments reported in Money & Family Law in digest form. In addition, Best of Money & Family Law is made available.</p>\n<br />\n<p>Having been practicing family law for almost 35 years, Money & Family Law is an invaluable and indispensable part of my family law practice. It is my go-to source for topical and thoughtful discussions of matters related to family law and estates. Money & Family Law has proved its utility countless times in both settlement negotiations as well as contentious matters before the Courts. Indeed, I have had several Family Law Judges opine about how useful and cogent is the information provided in Messrs. Wolfson and Corbin\u0027s excellent newsletter. - Cecil J. Lyon, Lawyer, Mediator and Arbitrator, Kanata, Ontario</p>",
         "ec_category":  "Family law",
         "ec_item_group_id":  "money-family-law",
         "ec_images":  "https://thomsonreuters.scene7.com/is/image/thomsonreutersPROD/1105-2",
@@ -987,7 +1005,8 @@
         "tr_estore_imagealttag":  "Image of Money & Family Law",
         "tr_estore_recommendations":  "30836141,43030943,30844940,30852543",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  828.00
     },
     {
         "documentId":  "product://30833506-newsletterelectronic-subscription",
@@ -1021,7 +1040,8 @@
         "tr_estore_imagealttag":  "Ontario Statute Citator, R.S.O. 1990 Edition",
         "tr_estore_recommendations":  "43164267,42958753,30842201,30843605",
         "tr_estore_priceunit":  "CAD",
-        "language":  "English"
+        "language":  "English",
+        "ec_price":  3588.00
     },
     {
         "documentId":  "product://30843853-binder-subscription",
